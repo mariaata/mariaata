@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mariaata
-- 👀 I’m interested in CS, data science, and political science.
+- 👋 Hi, I’m Maria!
+- 🌱 I’m interested in Product roles (including research, management) and data-related opportunities.
 - 💞️ I’m interested in the development of ethical databases that serves users while leveraging data for positive and equitable societal impact.
-- 🌱 I’m currently learning Java and hoping to begin learning Python next semester!
 - 📫 Feel free to reach me!
 
 <!---
