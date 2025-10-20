@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Maria!
 - 🌱 I’m interested in Product roles (including research and management) and data-related opportunities.
-- 💞️ I’m interested in the development of ethical databases that serves users while leveraging data for positive and equitable societal impact.
+- 💞️ I’m interested in the using tech for good and building products that enhance experiences!
+- 💌 Previous Internship Experiences Include: Product Lead & Prev PM @ Develop for Good, Researcher @ Cornell Tech (Matters of Tech), Actuary (statistics) @ MetLife
 - 📫 Feel free to reach me!
 
 <!---
